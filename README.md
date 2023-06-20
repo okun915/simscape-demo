@@ -1,2 +1,0 @@
-# simscape_demo
-
